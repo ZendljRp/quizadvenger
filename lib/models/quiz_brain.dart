@@ -30,7 +30,7 @@ final List<QuestionModel> questions = [
     imageUrl: 'assets/img/hulk.jfif',
     questionText: '¿Cual es el nombre del personaje, en la imagen?',
     options: ['Londres', 'Thor', 'Hulk', 'Berlín'],
-    correctOptionIndex: 1,
+    correctOptionIndex: 3,
   ),
 ];
 
