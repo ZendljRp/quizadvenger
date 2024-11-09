@@ -15,7 +15,7 @@ final List<QuestionModel> questions = [
     correctOptionIndex: 2,
   ),
   QuestionModel(
-    imageUrl: 'assets/img/doctor-stravens.jfif',
+    imageUrl: 'assets/img/doc-stravens.jfif',
     questionText: '¿Cual es el nombre del personaje, en la imagen?',
     options: ['Doctor Strange', 'París', 'Spiderman', 'Hulk'],
     correctOptionIndex: 1,
